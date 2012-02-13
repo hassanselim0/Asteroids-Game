@@ -1,0 +1,7 @@
+
+boopee.ttf
+Asteroids Game/bin/
+Asteroids Game/obj/
+Asteroids Game/Content/obj/
+*Thumbs.db
+*.csproj.Debug.cachefile
