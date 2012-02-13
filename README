@@ -2,3 +2,5 @@ This is the the first Game I ever made, and the worst code I ever wrote!
 Why? Because I didn't know anything about Objects back then :D
 However the game is really fun to play
 I wish I have time to refactor it and add LAN multiplayer to it :)
+
+You need Visual Studio 2010 (or Visual C# 2010) and XNA 4.0 Refresh to compile this.
